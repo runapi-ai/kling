@@ -1,5 +1,7 @@
 # Kling AI API Skill for RunAPI
 
+[![skills.sh](https://skills.sh/b/runapi-ai/kling)](https://skills.sh/runapi-ai/kling)
+
 Generate video, AI avatars, and motion-controlled clips with the Kling SDK. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Kling through RunAPI.
 
 The canonical agent file is `skills/kling/SKILL.md`.
