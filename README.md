@@ -1,6 +1,23 @@
-# Kling AI API Skill for RunAPI
+<p align="center">
+  <a href="https://github.com/runapi-ai/kling">
+    <h3 align="center">Kling AI API Skill for RunAPI</h3>
+  </a>
+</p>
+
+<p align="center">
+  Install this agent skill, inspect Kling fields, then run jobs through the RunAPI CLI.
+</p>
+
+<p align="center">
+  <a href="https://runapi.ai/models/kling.md"><strong>Model Reference</strong></a> · <a href="https://skills.sh/runapi-ai/kling"><strong>Install Skill</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/kling-sdk"><strong>SDK</strong></a>
+</p>
+
+<div align="center">
 
 [![skills.sh](https://skills.sh/b/runapi-ai/kling)](https://skills.sh/runapi-ai/kling)
+
+</div>
+<br/>
 
 Generate video, AI avatars, and motion-controlled clips with the Kling SDK. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Kling through RunAPI.
 
