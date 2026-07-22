@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.2.11](https://github.com/runapi-ai/kling/releases/tag/v0.2.11) - 2026-07-22
+
+### Added
+- Document Kling 2.6 modes, optional sound, final-frame constraints, and the canonical model page.
+
+
 ## [v0.2.10](https://github.com/runapi-ai/kling/releases/tag/v0.2.10) - 2026-07-16
 
 ### Changed
