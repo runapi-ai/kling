@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.2.13](https://github.com/runapi-ai/kling/releases/tag/v0.2.13) - 2026-07-23
+
+### Added
+- Document Kling 2.6 motion-control inputs, required fields, and model-specific background behavior.
+
+
 ## [v0.2.12](https://github.com/runapi-ai/kling/releases/tag/v0.2.12) - 2026-07-23
 
 ### Added
