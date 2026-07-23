@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.2.12](https://github.com/runapi-ai/kling/releases/tag/v0.2.12) - 2026-07-23
+
+### Added
+- Document Kling V3 Omni output resolutions, optional sound, final-frame constraints, and the canonical model page.
+
+
 ## [v0.2.11](https://github.com/runapi-ai/kling/releases/tag/v0.2.11) - 2026-07-22
 
 ### Added
