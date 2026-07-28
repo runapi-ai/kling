@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.2.14](https://github.com/runapi-ai/kling/releases/tag/v0.2.14) - 2026-07-28
+
+### Added
+- Document Kling O1 reference fields, numbered prompt markers, media limits, reference roles, and frame-input restrictions.
+
+
 ## [v0.2.13](https://github.com/runapi-ai/kling/releases/tag/v0.2.13) - 2026-07-23
 
 ### Added
