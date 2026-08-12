@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.2.16](https://github.com/runapi-ai/kling/releases/tag/v0.2.16) - 2026-08-12
+
+### Changed
+- Generate the kling skill from the shared RunAPI recipe with contract-discovered request rules and task behavior, direct local media inputs, complete result verification, and bounded recovery.
+
+
 ## [v0.2.15](https://github.com/runapi-ai/kling/releases/tag/v0.2.15) - 2026-08-10
 
 ### Changed
