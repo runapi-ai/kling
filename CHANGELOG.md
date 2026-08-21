@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.3.0](https://github.com/runapi-ai/kling/releases/tag/v0.3.0) - 2026-08-21
+
+### Added
+- Document reference-image and source-video editing inputs for Kling V3 Omni.
+
+
 ## [v0.2.16](https://github.com/runapi-ai/kling/releases/tag/v0.2.16) - 2026-08-12
 
 ### Changed
