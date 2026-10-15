@@ -1,5 +1,15 @@
 # Changelog
 
+## [v0.4.0](https://github.com/runapi-ai/kling/releases/tag/v0.4.0) - 2026-10-15
+
+### Changed
+- Explain custom and automatic storyboarding, optional sound, and custom shot constraints.
+
+### Removed
+- Remove retired model choices from creation metadata and document historical task lookup.
+  Migration: Retired models return HTTP 410 for new requests. Query existing task IDs with the original task endpoint; no automatic replacement is applied.
+
+
 ## [v0.3.0](https://github.com/runapi-ai/kling/releases/tag/v0.3.0) - 2026-08-21
 
 ### Added

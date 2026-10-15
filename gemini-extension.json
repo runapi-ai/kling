@@ -1,6 +1,6 @@
 {
   "name": "kling",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "RunAPI Kling skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
   "skills": [
     {
